@@ -20,7 +20,7 @@ Built using Python 3.13.9
 ```bash
 python -m venv .venv 
 ```
-### 2. Create a virtual environment
+### 2. Activate a virtual environment
 
 ```bash
 source .venv/Scripts/activate # Windows
