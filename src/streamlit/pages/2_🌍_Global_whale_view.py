@@ -98,5 +98,5 @@ fig = px.scatter_map(
     height=600
 )
 
-fig.update_layout(mapbox_style="carto-darkmatter")
+fig.update_layout(map_style="carto-darkmatter")
 st.plotly_chart(fig)
